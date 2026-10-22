@@ -1,0 +1,664 @@
+{
+  "python": [
+    {
+      "titulo": "Baixar o Python",
+      "link": "https://www.python.org/downloads/",
+      "trecho": "instalador oficial"
+    },
+    {
+      "titulo": "Tutorial oficial: ambientes virtuais (venv)",
+      "link": "https://docs.python.org/pt-br/3/tutorial/venv.html",
+      "trecho": "como criar e usar a venv"
+    },
+    {
+      "titulo": "Formato do requirements.txt",
+      "link": "https://pip.pypa.io/en/stable/reference/requirements-file-format/",
+      "trecho": "lista de dependências"
+    }
+  ],
+  "git": [
+    {
+      "titulo": "Baixar o Git",
+      "link": "https://git-scm.com/downloads",
+      "trecho": "instalador oficial"
+    },
+    {
+      "titulo": "Livro Pro Git (pt-BR)",
+      "link": "https://git-scm.com/book/pt-br/v2",
+      "trecho": "fundamentos do Git"
+    },
+    {
+      "titulo": "Ignorando arquivos (.gitignore)",
+      "link": "https://docs.github.com/pt/get-started/git-basics/ignoring-files",
+      "trecho": "o que não deve ir ao repositório"
+    },
+    {
+      "titulo": "Modelos de .gitignore",
+      "link": "https://github.com/github/gitignore",
+      "trecho": "modelo para Python"
+    }
+  ],
+  "github_conta": [
+    {
+      "titulo": "Criar conta no GitHub",
+      "link": "https://github.com/signup",
+      "trecho": "cadastro gratuito"
+    },
+    {
+      "titulo": "Hello World do GitHub",
+      "link": "https://docs.github.com/pt/get-started/start-your-journey/hello-world",
+      "trecho": "primeiros passos"
+    }
+  ],
+  "github_repo": [
+    {
+      "titulo": "Criar um repositório",
+      "link": "https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories",
+      "trecho": "criar repositório novo"
+    },
+    {
+      "titulo": "Exemplo de repositório bem organizado",
+      "link": "https://github.com/emmanuelvrm/rpg-simples",
+      "trecho": "estrutura em camadas e README"
+    }
+  ],
+  "github_envio": [
+    {
+      "titulo": "Token de acesso pessoal (no lugar da senha)",
+      "link": "https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens",
+      "trecho": "autenticar o git push"
+    },
+    {
+      "titulo": "GitHub CLI: gh auth login",
+      "link": "https://cli.github.com/manual/gh_auth_login",
+      "trecho": "login pelo navegador"
+    },
+    {
+      "titulo": "Enviar arquivos pelo site do GitHub",
+      "link": "https://docs.github.com/pt/repositories/working-with-files/managing-files/adding-a-file-to-a-repository",
+      "trecho": "alternativa sem Git instalado"
+    }
+  ],
+  "vm": [
+    {
+      "titulo": "Baixar o VirtualBox",
+      "link": "https://www.virtualbox.org/wiki/Downloads",
+      "trecho": "instalador oficial"
+    },
+    {
+      "titulo": "Manual do VirtualBox",
+      "link": "https://www.virtualbox.org/manual/",
+      "trecho": "criar máquina virtual e pastas compartilhadas"
+    },
+    {
+      "titulo": "Linux Mint (edição Xfce, leve)",
+      "link": "https://linuxmint.com/download.php",
+      "trecho": "ISO para a máquina virtual"
+    },
+    {
+      "titulo": "Lubuntu (muito leve)",
+      "link": "https://lubuntu.me/downloads/",
+      "trecho": "alternativa mais leve"
+    },
+    {
+      "titulo": "MiniOS",
+      "link": "https://minios.dev/",
+      "trecho": "distribuição Debian enxuta"
+    }
+  ],
+  "editor": [
+    {
+      "titulo": "Geany: editor leve com autocompletar e destaque",
+      "link": "https://www.geany.org/",
+      "trecho": "roda bem em máquina virtual"
+    }
+  ],
+  "gemini": [
+    {
+      "titulo": "Criar a chave de API do Gemini (passo a passo oficial)",
+      "link": "https://ai.google.dev/gemini-api/docs/api-key",
+      "trecho": "projeto + Create API key"
+    },
+    {
+      "titulo": "Google AI Studio: página das chaves",
+      "link": "https://aistudio.google.com/apikey",
+      "trecho": "Create API key"
+    },
+    {
+      "titulo": "Criar chave de API (Google AI Studio)",
+      "link": "https://aistudio.google.com/apikey",
+      "trecho": "chave gratuita"
+    },
+    {
+      "titulo": "Gemini API: início rápido",
+      "link": "https://ai.google.dev/gemini-api/docs/quickstart",
+      "trecho": "primeira chamada"
+    },
+    {
+      "titulo": "Gemini API: generateContent",
+      "link": "https://ai.google.dev/gemini-api/docs/generate-content/get-started",
+      "trecho": "formato da requisição"
+    },
+    {
+      "titulo": "Limites de uso",
+      "link": "https://ai.google.dev/gemini-api/docs/rate-limits",
+      "trecho": "camada gratuita"
+    }
+  ],
+  "docs": [
+    {
+      "titulo": "Modelo de Documentação Técnica (PDF do curso)",
+      "link": "materiais/Modelo_Documentacao_Tecnica.pdf",
+      "trecho": "documento vivo, uma versão por fase"
+    },
+    {
+      "titulo": "Exemplo preenchido: RPG Simples (PDF do curso)",
+      "link": "materiais/Documentacao_Tecnica_RPG_Simples_Referencia.pdf",
+      "trecho": "como evidenciar requisitos, modelagem, testes e operação"
+    }
+  ],
+  "planejamento": [
+    {
+      "titulo": "Como a web funciona (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 1 - Introdução à programação web",
+      "link": "https://drive.google.com/file/d/1OMV6RbZntejAyk8-_XR6xEZHtVcOdP_h/view",
+      "trecho": "como a web funciona"
+    },
+    {
+      "titulo": "Pasta com o material de apoio do aluno",
+      "link": "https://drive.google.com/drive/folders/1u_vLbDymQAmBBofpdvRdzkwvSLXhoI_k",
+      "trecho": "todas as apostilas"
+    }
+  ],
+  "html": [
+    {
+      "titulo": "HTML: estrutura e semântica (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content",
+      "trecho": ""
+    },
+    {
+      "titulo": "Elementos semânticos (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics",
+      "trecho": ""
+    },
+    {
+      "titulo": "Validador de HTML (W3C)",
+      "link": "https://validator.w3.org/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 2 - HTML",
+      "link": "https://docs.google.com/document/d/17taFXtwG6kCzR6Fdcw-aFuDWiAYLdCXixLSGJB00rMc/edit",
+      "trecho": "apostila de HTML"
+    }
+  ],
+  "css": [
+    {
+      "titulo": "CSS: primeiros passos (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics",
+      "trecho": ""
+    },
+    {
+      "titulo": "Variáveis CSS (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties",
+      "trecho": ""
+    },
+    {
+      "titulo": "Especificidade (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/Specificity",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 2.1 - CSS",
+      "link": "https://docs.google.com/document/d/1r2sF1uJ8f5wySJKSNyGuqvE-XJ85EStBUgS2Y39M-j4/edit",
+      "trecho": "apostila de CSS"
+    }
+  ],
+  "responsivo": [
+    {
+      "titulo": "Design responsivo (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
+      "trecho": ""
+    },
+    {
+      "titulo": "Flexbox (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Flexbox",
+      "trecho": ""
+    },
+    {
+      "titulo": "Grid (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/CSS_layout/Grids",
+      "trecho": ""
+    },
+    {
+      "titulo": "Media queries (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 3 - Design responsivo",
+      "link": "https://drive.google.com/file/d/1rEYPsAXlokP726ieq002jjAdulNcUPCe/view",
+      "trecho": "responsivo e Bootstrap"
+    }
+  ],
+  "design": [
+    {
+      "titulo": "Cores e contraste (web.dev)",
+      "link": "https://web.dev/learn/accessibility/color-contrast",
+      "trecho": ""
+    },
+    {
+      "titulo": "Tipografia na web (web.dev)",
+      "link": "https://web.dev/learn/css/typography",
+      "trecho": ""
+    },
+    {
+      "titulo": "Verificador de contraste (WebAIM)",
+      "link": "https://webaim.org/resources/contrastchecker/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 2.1 - CSS",
+      "link": "https://docs.google.com/document/d/1r2sF1uJ8f5wySJKSNyGuqvE-XJ85EStBUgS2Y39M-j4/edit",
+      "trecho": "apostila de CSS"
+    }
+  ],
+  "a11y": [
+    {
+      "titulo": "Acessibilidade na web (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Accessibility",
+      "trecho": ""
+    },
+    {
+      "titulo": "WCAG 2.2 — guia rápido (W3C)",
+      "link": "https://www.w3.org/WAI/WCAG22/quickref/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Curso de acessibilidade (web.dev)",
+      "link": "https://web.dev/learn/accessibility",
+      "trecho": ""
+    },
+    {
+      "titulo": "ARIA: quando usar (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/Accessibility/ARIA",
+      "trecho": ""
+    }
+  ],
+  "js": [
+    {
+      "titulo": "JavaScript: primeiros passos (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting",
+      "trecho": ""
+    },
+    {
+      "titulo": "Guia JavaScript (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide",
+      "trecho": ""
+    },
+    {
+      "titulo": "Módulos JavaScript (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Modules",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: Java Script",
+      "link": "https://docs.google.com/document/d/1hMd2buQblAsOW4mh3fXti5fn9qmcGslBVe3HsJS167E/edit",
+      "trecho": "apostila de JavaScript"
+    }
+  ],
+  "dom": [
+    {
+      "titulo": "Manipulando documentos — DOM (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/DOM_scripting",
+      "trecho": ""
+    },
+    {
+      "titulo": "Eventos (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/Events",
+      "trecho": ""
+    },
+    {
+      "titulo": "Delegação de eventos (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/Events#event_delegation",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: JS Relâmpago",
+      "link": "https://docs.google.com/presentation/d/1R3dOE8XolNHzi6M0L6liPLU0LPAetCqyQ6H1m4wXodw/edit",
+      "trecho": "exercício rápido de DOM e eventos"
+    }
+  ],
+  "async": [
+    {
+      "titulo": "fetch() e erros (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch",
+      "trecho": ""
+    },
+    {
+      "titulo": "async/await (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/Async_JS",
+      "trecho": ""
+    }
+  ],
+  "storage": [
+    {
+      "titulo": "localStorage (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API",
+      "trecho": ""
+    },
+    {
+      "titulo": "JSON (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/JSON",
+      "trecho": ""
+    }
+  ],
+  "seguranca": [
+    {
+      "titulo": "XSS (MDN)",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/Security/Attacks",
+      "trecho": ""
+    },
+    {
+      "titulo": "Nunca coloque segredos no front-end (OWASP)",
+      "link": "https://owasp.org/www-project-top-ten/",
+      "trecho": ""
+    }
+  ],
+  "seo": [
+    {
+      "titulo": "Fundamentos de SEO (Google)",
+      "link": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "trecho": ""
+    },
+    {
+      "titulo": "Open Graph",
+      "link": "https://ogp.me/",
+      "trecho": ""
+    },
+    {
+      "titulo": "sitemaps.org",
+      "link": "https://www.sitemaps.org/pt_BR/protocol.html",
+      "trecho": ""
+    }
+  ],
+  "perf": [
+    {
+      "titulo": "Imagens na web (web.dev)",
+      "link": "https://web.dev/learn/images",
+      "trecho": ""
+    },
+    {
+      "titulo": "Core Web Vitals (web.dev)",
+      "link": "https://web.dev/articles/vitals",
+      "trecho": ""
+    },
+    {
+      "titulo": "Lighthouse (Chrome)",
+      "link": "https://developer.chrome.com/docs/lighthouse/overview",
+      "trecho": ""
+    },
+    {
+      "titulo": "Squoosh: comprimir imagens",
+      "link": "https://squoosh.app/",
+      "trecho": ""
+    }
+  ],
+  "pages": [
+    {
+      "titulo": "GitHub Pages: início rápido",
+      "link": "https://docs.github.com/pt/pages/quickstart",
+      "trecho": ""
+    },
+    {
+      "titulo": "Publicar a partir de uma branch",
+      "link": "https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site",
+      "trecho": ""
+    },
+    {
+      "titulo": "Domínio personalizado",
+      "link": "https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site",
+      "trecho": ""
+    },
+    {
+      "titulo": "Página 404 personalizada",
+      "link": "https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site",
+      "trecho": ""
+    }
+  ],
+  "alternativas": [
+    {
+      "titulo": "Netlify Drop (arrastar a pasta)",
+      "link": "https://app.netlify.com/drop",
+      "trecho": ""
+    },
+    {
+      "titulo": "Cloudflare Pages",
+      "link": "https://developers.cloudflare.com/pages/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Vercel",
+      "link": "https://vercel.com/docs",
+      "trecho": ""
+    }
+  ],
+  "devtools": [
+    {
+      "titulo": "Chrome DevTools: modo dispositivo",
+      "link": "https://developer.chrome.com/docs/devtools/device-mode",
+      "trecho": ""
+    },
+    {
+      "titulo": "Chrome DevTools: console",
+      "link": "https://developer.chrome.com/docs/devtools/console",
+      "trecho": ""
+    }
+  ],
+  "ferramentas": [
+    {
+      "titulo": "Prettier: formatador",
+      "link": "https://prettier.io/docs/en/install",
+      "trecho": ""
+    },
+    {
+      "titulo": "ESLint",
+      "link": "https://eslint.org/docs/latest/use/getting-started",
+      "trecho": ""
+    },
+    {
+      "titulo": "Validador de CSS (W3C)",
+      "link": "https://jigsaw.w3.org/css-validator/",
+      "trecho": ""
+    }
+  ],
+  "bootstrap": [
+    {
+      "titulo": "Bootstrap: começando",
+      "link": "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Bootstrap: grid",
+      "link": "https://getbootstrap.com/docs/5.3/layout/grid/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Material do professor: 3 - Design responsivo",
+      "link": "https://drive.google.com/file/d/1rEYPsAXlokP726ieq002jjAdulNcUPCe/view",
+      "trecho": "responsivo e Bootstrap"
+    }
+  ],
+  "material": [
+    {
+      "titulo": "Material do professor: 2 - HTML",
+      "link": "https://docs.google.com/document/d/17taFXtwG6kCzR6Fdcw-aFuDWiAYLdCXixLSGJB00rMc/edit",
+      "trecho": "apostila de HTML"
+    },
+    {
+      "titulo": "Material do professor: 2.1 - CSS",
+      "link": "https://docs.google.com/document/d/1r2sF1uJ8f5wySJKSNyGuqvE-XJ85EStBUgS2Y39M-j4/edit",
+      "trecho": "apostila de CSS"
+    },
+    {
+      "titulo": "Material do professor: 3 - Design responsivo",
+      "link": "https://drive.google.com/file/d/1rEYPsAXlokP726ieq002jjAdulNcUPCe/view",
+      "trecho": "responsivo e Bootstrap"
+    },
+    {
+      "titulo": "Material do professor: Java Script",
+      "link": "https://docs.google.com/document/d/1hMd2buQblAsOW4mh3fXti5fn9qmcGslBVe3HsJS167E/edit",
+      "trecho": "apostila de JavaScript"
+    },
+    {
+      "titulo": "Material do professor: JS Relâmpago",
+      "link": "https://docs.google.com/presentation/d/1R3dOE8XolNHzi6M0L6liPLU0LPAetCqyQ6H1m4wXodw/edit",
+      "trecho": "exercício rápido de DOM e eventos"
+    },
+    {
+      "titulo": "Material do professor: Links externos",
+      "link": "https://drive.google.com/file/d/1_Qy-NW85MSlGaNAOijjYaba5ImkDqWFM/view",
+      "trecho": "links úteis"
+    },
+    {
+      "titulo": "Material do professor: 1 - Introdução à programação web",
+      "link": "https://drive.google.com/file/d/1OMV6RbZntejAyk8-_XR6xEZHtVcOdP_h/view",
+      "trecho": "como a web funciona"
+    },
+    {
+      "titulo": "Pasta com o material de apoio do aluno",
+      "link": "https://drive.google.com/drive/folders/1u_vLbDymQAmBBofpdvRdzkwvSLXhoI_k",
+      "trecho": "todas as apostilas"
+    }
+  ],
+  "flask": [
+    {
+      "titulo": "Flask: início rápido",
+      "link": "https://flask.palletsprojects.com/en/stable/quickstart/",
+      "trecho": ""
+    },
+    {
+      "titulo": "Flask: tutorial (aplicação com banco)",
+      "link": "https://flask.palletsprojects.com/en/stable/tutorial/",
+      "trecho": ""
+    },
+    {
+      "titulo": "MDN: o que é o lado do servidor",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction",
+      "trecho": ""
+    }
+  ],
+  "sqlite": [
+    {
+      "titulo": "Python: módulo sqlite3",
+      "link": "https://docs.python.org/pt-br/3/library/sqlite3.html",
+      "trecho": ""
+    },
+    {
+      "titulo": "SQLite Tutorial (INSERT, SELECT, UPDATE, DELETE)",
+      "link": "https://www.sqlitetutorial.net/",
+      "trecho": ""
+    },
+    {
+      "titulo": "SQLite: o que é",
+      "link": "https://www.sqlite.org/about.html",
+      "trecho": ""
+    }
+  ],
+  "modelagem": [
+    {
+      "titulo": "Modelo entidade-relacionamento (Wikipédia)",
+      "link": "https://pt.wikipedia.org/wiki/Modelo_entidade-relacionamento",
+      "trecho": ""
+    },
+    {
+      "titulo": "Chave primária e estrangeira (SQLite)",
+      "link": "https://www.sqlite.org/foreignkeys.html",
+      "trecho": ""
+    },
+    {
+      "titulo": "dbdiagram.io: desenhar tabelas online (opcional)",
+      "link": "https://dbdiagram.io/home",
+      "trecho": ""
+    }
+  ],
+  "fetch": [
+    {
+      "titulo": "MDN: usando fetch",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch",
+      "trecho": ""
+    },
+    {
+      "titulo": "MDN: JSON",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/JSON",
+      "trecho": ""
+    }
+  ],
+  "venv": [
+    {
+      "titulo": "Python: ambientes virtuais (venv)",
+      "link": "https://docs.python.org/pt-br/3/tutorial/venv.html",
+      "trecho": ""
+    }
+  ],
+  "sql_injection": [
+    {
+      "titulo": "OWASP: SQL Injection",
+      "link": "https://owasp.org/www-community/attacks/SQL_Injection",
+      "trecho": ""
+    },
+    {
+      "titulo": "Python: use parâmetros (?) nas consultas",
+      "link": "https://docs.python.org/pt-br/3/library/sqlite3.html#how-to-use-placeholders-to-bind-values-in-sql-queries",
+      "trecho": ""
+    }
+  ],
+  "render": [
+    {
+      "titulo": "Render: publicar um app Flask",
+      "link": "https://render.com/docs/deploy-flask",
+      "trecho": ""
+    },
+    {
+      "titulo": "Render: limites do plano grátis",
+      "link": "https://render.com/docs/free",
+      "trecho": ""
+    },
+    {
+      "titulo": "Render: arquivo render.yaml (Blueprint)",
+      "link": "https://render.com/docs/blueprint-spec",
+      "trecho": ""
+    },
+    {
+      "titulo": "Render: variáveis de ambiente",
+      "link": "https://render.com/docs/configure-environment-variables",
+      "trecho": ""
+    }
+  ],
+  "supabase": [
+    {
+      "titulo": "Supabase: conectar ao Postgres",
+      "link": "https://supabase.com/docs/guides/database/connecting-to-postgres",
+      "trecho": ""
+    },
+    {
+      "titulo": "Supabase: visão geral do banco",
+      "link": "https://supabase.com/docs/guides/database/overview",
+      "trecho": ""
+    },
+    {
+      "titulo": "Supabase: Row Level Security",
+      "link": "https://supabase.com/docs/guides/database/postgres/row-level-security",
+      "trecho": ""
+    },
+    {
+      "titulo": "Supabase: preços e limites do plano grátis",
+      "link": "https://supabase.com/pricing",
+      "trecho": ""
+    }
+  ]
+}
